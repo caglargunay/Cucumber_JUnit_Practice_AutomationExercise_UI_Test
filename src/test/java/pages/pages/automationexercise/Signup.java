@@ -1,4 +1,4 @@
-package caglar.pages.automationexercise;
+package pages.pages.automationexercise;
 
 import com.github.javafaker.Faker;
 import org.openqa.selenium.WebElement;

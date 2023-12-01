@@ -1,6 +1,6 @@
-package caglar.step_definitions;
+package pages.step_definitions;
 
-import caglar.pages.BMI;
+import pages.pages.BMI;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.junit.Assert;

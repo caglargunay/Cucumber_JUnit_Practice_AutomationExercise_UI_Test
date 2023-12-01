@@ -1,4 +1,4 @@
-package caglar.step_definitions;
+package pages.step_definitions;
 
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
@@ -8,7 +8,7 @@ import utility.Driver;
 
 public class XfleetLoginPage {
 
-   caglar.pages.XfleetLoginPage xfleetLoginPage =new caglar.pages.XfleetLoginPage();
+   pages.pages.XfleetLoginPage xfleetLoginPage =new pages.pages.XfleetLoginPage();
 
     @When("user enters {string} and {string}")
     public void user_enters_and(String username, String password) {

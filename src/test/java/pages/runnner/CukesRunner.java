@@ -1,4 +1,4 @@
-package caglar.runnner;
+package pages.runnner;
 
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
@@ -13,7 +13,7 @@ import org.junit.runner.RunWith;
 
         features = "src/test/resources/features_caglar",
 
-        glue = "caglar/step_definitions",
+        glue = "pages/step_definitions",
 
         dryRun = false,
 

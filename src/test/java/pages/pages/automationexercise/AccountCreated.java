@@ -1,4 +1,4 @@
-package caglar.pages.automationexercise;
+package pages.pages.automationexercise;
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;

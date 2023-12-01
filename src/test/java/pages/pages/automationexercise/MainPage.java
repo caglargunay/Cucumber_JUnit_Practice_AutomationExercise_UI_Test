@@ -1,4 +1,4 @@
-package caglar.pages.automationexercise;
+package pages.pages.automationexercise;
 
 import org.junit.Assert;
 import org.openqa.selenium.WebDriver;

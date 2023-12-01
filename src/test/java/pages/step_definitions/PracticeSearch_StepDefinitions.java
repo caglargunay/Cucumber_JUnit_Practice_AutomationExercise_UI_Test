@@ -1,6 +1,6 @@
-package caglar.step_definitions;
+package pages.step_definitions;
 
-import caglar.pages.ExpandTestingMainPage;
+import pages.pages.ExpandTestingMainPage;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
